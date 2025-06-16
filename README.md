@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manvepa&label=GitHub%20Views&style=plastic&color=blueviolet" alt="GitHub Views"/>
-</p>
-
 <div align="center">
 
+<p align="center">
+  <img src="https://github.com/Manvepa/Manvepa/blob/main/assets/bannerCV.png?raw=true" alt="Banner del perfil" />
+</p>
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
 
 <details>
 <summary>Open profile</summary>
@@ -15,7 +14,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/Manvepa/Manvepa/blob/main/bannerCV.png" alt="Avatar photo of KK10">
+       <img src="https://github.com/Manvepa/Manvepa/blob/main/assets/bannerCV.png?raw=true" alt="Banner del perfil" />
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
