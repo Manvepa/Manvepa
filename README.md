@@ -32,67 +32,45 @@
 </details>
 
 <details>
-<summary>Tools</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
+<summary><strong>🛠️ Tools</strong></summary>
 
-![Skills](https://skillicons.dev/icons?i=python,java,javascript)
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
+<br>
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express)
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      
-![Skills](https://skillicons.dev/icons?i=react)
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      
-![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nextjs)
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
+<table>
+  <tr>
+    <td><strong>👨‍💻 Programming Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,javascript" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Back-end</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+  </tr>
+  <tr>
+    <td><strong>📱 Mobile</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react" /></td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Front-end</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" /></td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgresql" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧪 Terminal Scripts</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=bash,vscode" /></td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,eclipse" /></td>
+  </tr>
+  <tr>
+    <td><strong>🎮 Game Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=unity" /></td>
+  </tr>
+</table>
 
-![Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase, psql)
-    </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-      
-![Skills](https://skillicons.dev/icons?i=bash, vscode)
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      
-![Skills](https://skillicons.dev/icons?i=docker,eclipse)
-  </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      
-![Skills](https://skillicons.dev/icons?i=unity,rocket)
-    </kbd>
-  </p>
-</div>
 </details>
 
 <details>
