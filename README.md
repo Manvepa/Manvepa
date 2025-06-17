@@ -16,8 +16,6 @@
 <details>
 <summary>About me</summary>
 
-<h2 align="center">✨💡 <span style="color:#36BCF7FF">About me</span> 💡✨</h2>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Manuel+Felipe+Parra+Velandia;Technologist+in+Software+Development;Ready+to+collaborate)](https://git.io/typing-svg)
 
 ```txt
