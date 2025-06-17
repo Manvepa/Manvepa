@@ -7,14 +7,14 @@
 
 
 <details>
-<summary>Open profile</summary>
+<summary><strong> 👉👉 Full Profile 👈👈</strong></summary>
 
 <br>
 
 <details>
 <summary>About me</summary>
 
-<h2 align="center">✨💡 <span style="color:#f39c12">About Me</span> 💡✨</h2>
+<h2 align="center">✨💡 <span style="color:#f39c12">About me</span> 💡✨</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7DC6F&size=22&center=true&vCenter=true&width=500&lines=Hello%2C+i+am+Manuel Felipe Parra Velandia!;Technologist+in+Software+Development;Ready+to+collaborate+%F0%9F%91%8D" alt="Typing SVG" />
