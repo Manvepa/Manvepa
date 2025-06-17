@@ -14,33 +14,22 @@
 <details>
 <summary>About me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+<h2 align="center">✨💡 <span style="color:#f39c12">About Me</span> 💡✨</h2>
 
-<div align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7DC6F&size=22&center=true&vCenter=true&width=500&lines=Hello%2C+i+am+Manuel Felipe Parra Velandia!;Technologist+in+Software+Development;Ready+to+collaborate+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
- */
+```txt
+📍 From: Bucaramanga, Santander-Colombia
+🎓 Background: Technologist in Software Development
+🎓 Currently: Studying Systems Engineering
+💼 Passionate about solving problems with technology
+🤝 Open to collaborate on educational and social impact projects
+🎯 Focused on continuous learning and self-improvement
+🎮 Hobbies: Gaming, tech exploration, and music
 ```
 
-</div>
 
 </details>
 
@@ -217,7 +206,6 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
 
