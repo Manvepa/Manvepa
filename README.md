@@ -1,230 +1,92 @@
-::: {align="center"}
-`<img src="https://github.com/Manvepa/Manvepa/blob/main/assets/bannerCV.png?raw=true" alt="Banner del perfil" />`{=html}
+<div align="center">
 
-# 👋 Welcome to my GitHub!
+<p align="center">
+  <img src="https://github.com/Manvepa/Manvepa/blob/main/assets/bannerCV.png?raw=true" alt="Banner del perfil" />
+</p>
 
-### Manuel Felipe Parra Velandia
+<p align="center">
+<h2 style="color:rgb(255, 255, 255);"> <strong> Welcome to my GitHub repository! </strong> </h2>
+</p>
+Here you'll find innovative projects focused on web and mobile development, covering both frontend and backend technologies.
+<p align="center">
 
-Technologist in Software Development \| Systems Engineering Student
+</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-Innovative projects focused on **Web, Backend and Mobile Development**
+<h2>  👤 About me </h2>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+Learner;Always+Learning+New+Technologies;Open+to+Collaborate" />`{=html}
-:::
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Manuel+Felipe+Parra+Velandia;Technologist+in+Software+Development;Ready+to+collaborate)](https://git.io/typing-svg)
 
-------------------------------------------------------------------------
-
-## 👤 About Me
-
-``` txt
-📍 Bucaramanga, Santander - Colombia
-🎓 Technologist in Software Development
-🎓 Currently studying Systems Engineering
+```txt
+📍 From: Bucaramanga, Santander-Colombia
+🎓 Background: Technologist in Software Development
+🎓 Currently: Studying Systems Engineering
 💼 Passionate about solving problems with technology
-🤝 Open to collaborate on impactful projects
-🎯 Focused on continuous growth
-🎮 Hobbies: Gaming, tech exploration, music
+🤝 Open to collaborate on educational and social impact projects
+🎯 Focused on continuous learning and self-improvement
+🎮 Hobbies: Gaming, tech exploration, and music
 ```
 
-------------------------------------------------------------------------
+<h2> <strong>🛠️ Tools</strong> </h2>
 
-## 🛠️ Tech Stack
+<br>
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}👨‍💻 Programming Languages`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=python,java,javascript,dart" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}🧠 Back-end`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}📱 Mobile`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=react,flutter" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}🎨 Front-end`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}🗄️ Database`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgresql" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}⚙️ Dev Tools`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<strong>`{=html}🎮 Game Development`</strong>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=unity" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td><strong>👨‍💻 Programming Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,javascript" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Back-end</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+  </tr>
+  <tr>
+    <td><strong>📱 Mobile</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react" /></td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Front-end</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" /></td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Database</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgresql" /></td>
+  </tr>
+  <tr>
+    <td><strong>🧪 Terminal Scripts</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=bash,vscode" /></td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,eclipse" /></td>
+  </tr>
+  <tr>
+    <td><strong>🎮 Game Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=unity" /></td>
+  </tr>
 </table>
-```
 
-------------------------------------------------------------------------
+  <h2> <strong>📊 GitHub Stats</strong> </h2>
+  <br>
 
-## 📊 GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manvepa&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  </p>
 
-::: {align="center"}
-`<img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manvepa&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" 
-height="170"
-/>`{=html}
+  <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Manvepa&theme=radical" alt="GitHub Streak" />
+  </p>
 
-`<img 
-src="https://github-readme-streak-stats.herokuapp.com?user=Manvepa&theme=radical&cache_seconds=1800" 
-height="170"
-/>`{=html}
 
-`<br/>`{=html}
 
-`<img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manvepa&layout=compact&theme=radical&cache_seconds=1800" 
-height="170"
-/>`{=html}
-:::
 
-------------------------------------------------------------------------
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvepa&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
 
-## 🚀 Current Focus
 
--   🔹 Full Stack Development (Node + React)
--   🔹 Mobile Development with Flutter
--   🔹 Clean Architecture & Best Practices
--   🔹 Performance & Scalable Systems
 
-------------------------------------------------------------------------
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect
-
-::: {align="center"}
-`<a href="https://www.linkedin.com/">`{=html}
-`<img src="https://skillicons.dev/icons?i=linkedin" />`{=html}
-`</a>`{=html}
-
-`<a href="mailto:your-email@example.com">`{=html}
-`<img src="https://skillicons.dev/icons?i=gmail" />`{=html}
-`</a>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### 💡 "Technology is best when it brings people together."
-:::
