@@ -71,19 +71,16 @@ Here you'll find innovative projects focused on web and mobile development, cove
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manvepa&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manvepa&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manvepa&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Manvepa&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manvepa&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvepa&layout=compact&theme=radical" />
 </p>
-
-
-
 
 
   <p align="center">
