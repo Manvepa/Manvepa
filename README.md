@@ -35,7 +35,7 @@ Here you'll find innovative projects focused on web and mobile development, cove
 <table>
   <tr>
     <td><strong>👨‍💻 Programming Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,java,javascript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,javascript,dart" /></td>
   </tr>
   <tr>
     <td><strong>🧠 Back-end</strong></td>
@@ -43,7 +43,7 @@ Here you'll find innovative projects focused on web and mobile development, cove
   </tr>
   <tr>
     <td><strong>📱 Mobile</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,flutter" /></td>
   </tr>
   <tr>
     <td><strong>🎨 Front-end</strong></td>
@@ -67,16 +67,21 @@ Here you'll find innovative projects focused on web and mobile development, cove
   </tr>
 </table>
 
-  <h2> <strong>📊 GitHub Stats</strong> </h2>
-  <br>
+<h2> <strong>📊 GitHub Stats</strong> </h2>
+<br>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manvepa&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manvepa&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" />
+</p>
 
-  <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Manvepa&theme=radical" alt="GitHub Streak" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manvepa&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manvepa&layout=compact&theme=radical" />
+</p>
+
 
 
 
